@@ -1,0 +1,86 @@
+presentation 
+
+10 minutes for presentation
+3 1/2 minutes each.
+
+- how would you improve the project management
+- did we share everything
+- specifics of the game (story,genre)
+- each group member presents their own section
+- game live demo with flow chart.
+- talk about slack and trello.. 
+- agile techniques how they were useful
+
+- how would you improve the game if you had more time
+- user testing effective
+
+google slides... 
+using key points for  
+
+- any questions in the end..
+
+- greet everyone from team method.
+  names - intro.
+
+we were a man down/ the importance of a member missing on the project...
+
+
+1) Genre of the game - murder mystery - have to find clues / and find the murderer...
+
+2) game demo & flow chart - mann
+
+## what we could've done differently..
+## if we had more time what improvments we could of done..
+## fluidity of the game/ movement
+
+
+points - 
+1) Team communication in one place
+2) File sharing - Code Sharing
+3) Acessible Anywhere
+4) Channel Creation - to keep things private
+
+## usefulness of slack
+## slack was useful for quickly checking on things it really
+## helped us with sharing ideas/ sharing code 
+## for communicating about the project..
+## having one channel for communication was effective.
+## 
+
+## usefulness of Trello ## 
+points
+
+1. user friendly - simple to create boards / lists
+2. flexibility - can also be used on ios/andriod
+3. adding team members is simple
+4. the design is responsive 
+
+
+----
+user friendly
+
+in our experience we found trello
+simple to use with assigning tasks to each member of the team.
+trello played an essential part to keep the project on track
+we were able to see the overall picture of the project, keep track
+of each memeber's tasks. 
+any new idea's we had it went on the trello board for implementation.
+we would use trello for future projects
+
+
+
+
+Greeting the audience
+
+Good Afternoon! 
+
+it's very nice to be here...
+
+name .... intro.. 
+manny - creative 
+kaylem - code
+let the audience know what the talk will be about...
+
+
+
+
