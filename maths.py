@@ -26,6 +26,6 @@ print(num9 - num10)
 
 #addition assignment operator prints the value of both variables
 num11 = 10
-num12 =+ 5
+num12 =+ 10
 num13 = num11 + num12
 print(num13)
